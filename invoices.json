@@ -6,6 +6,17 @@
 	"companyEmail": "lea@verou.me",
 	"invoice": [
 		{
+			"date": "2019-08-14",
+			"recipient": {
+				"name": "Tis is a an invoice\n",
+				"address": "Road "
+			},
+			"currency": "$",
+			"services": [
+				{}
+			]
+		},
+		{
 			"id": "2",
 			"date": "2016-10-06",
 			"recipient": {
@@ -26,6 +37,13 @@
 					"description": "Web hosting",
 					"amount": "20"
 				}
+			]
+		},
+		{
+			"recipient": {},
+			"currency": "$",
+			"services": [
+				{}
 			]
 		},
 		{
